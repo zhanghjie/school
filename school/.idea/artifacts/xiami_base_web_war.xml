@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="xiami-base-web:war">
+    <output-path>$PROJECT_DIR$/../alimusic-xiami-base/xiami-base-web/target</output-path>
+    <root id="archive" name="alimusic-xiami-base.war">
+      <element id="artifact" artifact-name="xiami-base-web:war exploded" />
+    </root>
+  </artifact>
+</component>

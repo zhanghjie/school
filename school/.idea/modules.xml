@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/school.iml" filepath="$PROJECT_DIR$/school.iml" />
+      <module fileurl="file://$PROJECT_DIR$/school.client/school.client.iml" filepath="$PROJECT_DIR$/school.client/school.client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/school.service/school.service.iml" filepath="$PROJECT_DIR$/school.service/school.service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/school.web/school.web.iml" filepath="$PROJECT_DIR$/school.web/school.web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../alimusic-xiami-base/xiami-base-biz/xiami-base-biz.iml" filepath="$PROJECT_DIR$/../alimusic-xiami-base/xiami-base-biz/xiami-base-biz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../alimusic-xiami-base/xiami-base-client/xiami-base-client.iml" filepath="$PROJECT_DIR$/../alimusic-xiami-base/xiami-base-client/xiami-base-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../alimusic-xiami-base/xiami-base-parent.iml" filepath="$PROJECT_DIR$/../alimusic-xiami-base/xiami-base-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../alimusic-xiami-base/xiami-base-web/xiami-base-web.iml" filepath="$PROJECT_DIR$/../alimusic-xiami-base/xiami-base-web/xiami-base-web.iml" />
+    </modules>
+  </component>
+</project>
