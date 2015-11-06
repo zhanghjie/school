@@ -5,5 +5,9 @@
     <file url="file://$PROJECT_DIR$/../alimusic-xiami-base/xiami-base-biz" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/../alimusic-xiami-base/xiami-base-client" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/../alimusic-xiami-base/xiami-base-web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/.gitignore" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/school.client/.gitignore" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/school.service/.gitignore" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/school.web/.gitignore" charset="UTF-8" />
   </component>
 </project>

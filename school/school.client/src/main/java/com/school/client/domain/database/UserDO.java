@@ -6,7 +6,15 @@ package main.java.com.school.client.domain.database;
 public class UserDO {
     private int userId;
     private  String userName;
+    private String passward;
 
+    public String getPassward() {
+        return passward;
+    }
+
+    public void setPassward(String passward) {
+        this.passward = passward;
+    }
 
     public int getUserId() {
         return userId;
